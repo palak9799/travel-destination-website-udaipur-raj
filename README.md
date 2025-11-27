@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Udaipur Travel Guide Website
 
-# Run and deploy your AI Studio app
+A responsive travel website showcasing the beauty of Udaipur, Rajasthan.  
+This project highlights top tourist destinations, famous restaurants, local markets, and must-visit spots in Udaipur.  
+All price information is displayed in Indian Rupees (₹).
 
-This contains everything you need to run your app locally.
+## Features
+- Udaipur-specific tourist place details  
+- Clean and responsive UI  
+- Images of popular locations in Udaipur  
+- Restaurant listings with ₹ pricing  
+- Local market information  
 
-View your app in AI Studio: https://ai.studio/apps/drive/1JHPbHu-3TtG2uChCsAHPrGdCvovuE4py
+## Tourist Attractions Included
+- City Palace  
+- Lake Pichola  
+- Fateh Sagar Lake  
+- Saheliyon Ki Bari  
+- Sajjangarh (Monsoon Palace)  
+
+## Restaurants Featured
+- Ambrai Restaurant  
+- Upre by 1559 AD  
+- Jheel's Ginger Coffee Bar  
+- Natraj Dining Hall  
+- 1559 AD  
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Install Dependencies
